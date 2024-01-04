@@ -2,9 +2,9 @@
 
 A simple portfolio template for developer/designers built with React. 
 
-### [live preview](http://meraj.mypressonline.com/)
+### [live preview](https://blackskykab.netlify.app/)
 
-[![react portfoiio](src/assets/images/react%20portfolio%20gif.gif)](http://meraj.mypressonline.com/)
+[![react portfoiio](react%20portfolio%20gif.gif)](https://blackskykab.netlify.app/)
 
 ### Features
 
@@ -18,7 +18,7 @@ A simple portfolio template for developer/designers built with React.
 
 Get the code
 
-<pre>git clone https://github.com/merajalamkhan/portfolio.git</pre>
+<pre>git clone https://github.com/merajalamkhan/skylab-diamond-inc.git</pre>
  
 Install required dependencies
 
